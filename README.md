@@ -31,12 +31,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ishan+Dutta" alt="Ishan" /></a>
-  <a href="https://github.com/ishandutta2007/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=ChatGPT/AI/Blockchain;20%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://github.com/ratul791/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=ChatGPT/AI/Blockchain;20%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/ishandutta2007"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://github.com/ratul791"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/jc4xtF58Ve" alt="Discord" title="Sinularity Labs Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -53,22 +53,22 @@
 <!-- Badges with custom icons - https://github.com/ishandutta2007/custom-icon-badges -->
 <!-- View counter - https://github.com/ishandutta2007/Simple-View-Counter -->
 <p align="center">
-   <a href="https://github.com/ishandutta2007?tab=repositories&sort=stargazers">
+   <a href="https://github.com/ratul791?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ishandutta2007"/>
    </a>
-  <a href="https://github.com/ishandutta2007?tab=repositories&sort=stargazers">
+  <a href="https://github.com/ratul791?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ishandutta2007?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
-  <a href="https://github.com/ishandutta2007?tab=followers">
+  <a href="https://github.com/ratul791?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ishandutta2007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/ishandutta2007/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/ishandutta2007-profile-views"/></a>
+  <a href="https://github.com/ratul791/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/ratul791-profile-views"/></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://stars.github.com/profiles/ishandutta2007/">
+  <a href="https://stars.github.com/profiles/ratul791/">
     <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
 </p>
 
@@ -96,7 +96,7 @@
     </tr>
   </table>
 
-  <a href="https://github.com/sponsors/ishandutta2007/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+  <a href="https://github.com/ratul791/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details>
 
 <details> 
@@ -213,15 +213,15 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ishandutta2007's Github Stats" src="https://ishandutta2007-github-readme-stats.vercel.app/api/?username=ishandutta2007&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ishandutta2007's Top Languages" src="https://ishandutta2007-github-readme-stats.vercel.app/api/top-langs/?username=ishandutta2007&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ratul7991's Github Stats" src="https://ishandutta2007-github-readme-stats.vercel.app/api/?username=ratul791&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ratul791's Top Languages" src="https://ratul791-github-readme-stats.vercel.app/api/top-langs/?username=ratul791&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ishandutta2007's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ishandutta2007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ratul791's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ratul791&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
 
